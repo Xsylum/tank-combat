@@ -1,5 +1,5 @@
 # tank-combat
-Basic Player vs Player game I made for a game design class.
+Player vs Player game I created for a game design class' final project.
 
 Headphone warning: starting audio can be a bit loud
 
